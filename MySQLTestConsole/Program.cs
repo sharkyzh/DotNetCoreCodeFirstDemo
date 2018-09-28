@@ -1,7 +1,7 @@
 ﻿using System;
-using MySQLTest.Models;
+using MySQLTestConsole.Models;
 
-namespace MySQLTest
+namespace MySQLTestConsole
 {
     class Program
     {
